@@ -1,0 +1,23 @@
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  column-gap: 1rem;
+}
+.name {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+.type {
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+.heading {
+  font-weight: bold;
+}
+.attribute {
+  font-weight: bold;
+}
+.picture {
+  max-height: 400px;
+}
